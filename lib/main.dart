@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:just_chat/screens/register.dart';
-import 'package:just_chat/screens/signin.dart';
 
 void main() => runApp(MyApp());
 

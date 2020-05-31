@@ -6,7 +6,7 @@ Widget appBarMain(BuildContext context){
   );
 }
 
-InputDecoration TextFieldDecoration(String hintText){
+InputDecoration textFieldDecoration(String hintText){
   return InputDecoration(
     hintText: hintText,
     hintStyle: TextStyle(

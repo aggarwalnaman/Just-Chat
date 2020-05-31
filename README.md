@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+You can download apk file from app-debug.apk .
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

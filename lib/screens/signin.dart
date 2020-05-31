@@ -21,11 +21,11 @@ class _SignInState extends State<SignIn> {
               SizedBox(height: 40.0,),
               TextField(
                 style: simpleTextStyle(),
-                decoration: TextFieldDecoration("Email"),
+                decoration: textFieldDecoration("Email"),
               ),
               TextField(
                 style: simpleTextStyle()  ,
-                decoration: TextFieldDecoration("Password")
+                decoration: textFieldDecoration("Password")
               ),
               SizedBox(height : 15,),
               Container(
